@@ -1,1 +1,2 @@
 Esto es el inico del proyecto en git
+esta es la rama1 
